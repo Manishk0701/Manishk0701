@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk0701&label=Profile%20views&color=0e75b6&style=flat" alt="manishk0701" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishk0701" alt="manishk0701" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/manishk0701" target="blank"><img src="https://img.shields.io/twitter/follow/manishk0701?logo=twitter&style=for-the-badge" alt="manishk0701" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Data Structure & Algorithm**
